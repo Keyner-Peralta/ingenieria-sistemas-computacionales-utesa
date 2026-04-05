@@ -1,4 +1,4 @@
-# 📘 Ingeniería en Sistemas Computacionales – UTESA
+# 📘 Ingeniería en sistemas computacionales – UTESA
   
 Aquí encontrarás **todos mis proyectos, prácticas, apuntes y ejercicios** relacionados con mi formación en UTESA.
 
