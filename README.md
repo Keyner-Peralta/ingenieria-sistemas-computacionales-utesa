@@ -8,7 +8,7 @@ Mi objetivo con este repositorio es crear un espacio organizado donde pueda docu
 
 ## 📌 Contenido del Repositorio
 
-Este repositorio está estructurado por asignaturas y áreas fundamentales relacionadas con la programación de la carrera:
+Este repositorio está estructurado por asignaturas y áreas fundamentales relacionadas con la programación:
 
 ### 🟦 Cuatrimestre 1
 **Algoritmos Computacionales**
