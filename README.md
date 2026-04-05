@@ -10,8 +10,8 @@ Mi objetivo con este repositorio es crear un espacio organizado donde pueda docu
 
 Este repositorio está estructurado por asignaturas y áreas fundamentales relacionadas con la programación de la carrera:
 
-1. **Cuatrimestre 1**:
-  2. *Algoritmos Computacionales*.
+- **Cuatrimestre 1**:
+  #*Algoritmos Computacionales*.
     
     1. Introducción a la informática 
     1. Historia del computador
