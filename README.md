@@ -13,4 +13,4 @@ Este repositorio está estructurado por asignaturas y áreas fundamentales relac
 - **Cuatrimestre 1**:
   - *Algoritmos Computacionales*.
 - **Cuatrimestre 2**:
--  *Programación 1: C++*
+  -  *Programación 1: C++*
