@@ -12,6 +12,11 @@ Este repositorio está estructurado por asignaturas y áreas fundamentales relac
 
 - **Cuatrimestre 1**:
   - *Algoritmos Computacionales*.
-    - Diagrama de flujo   
+    1-  Introducción a la informática 
+    - 2. Historia del computador
+    - 3. Componentes de una computadora
+    - Pseudocódigo
+    - Diagrama de flujo
+    -   
 - **Cuatrimestre 2**:
   -  *Programación 1: C++*
