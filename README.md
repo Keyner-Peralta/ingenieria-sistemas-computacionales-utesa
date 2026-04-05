@@ -12,7 +12,9 @@ Este repositorio está estructurado por asignaturas y áreas fundamentales relac
 
 ### 🟦 Cuatrimestre 1
 **Algoritmos Computacionales**
+
   *Temario*
+  
 1. Introducción a la informática  
 2. Historia del computador  
 3. Componentes de una computadora
