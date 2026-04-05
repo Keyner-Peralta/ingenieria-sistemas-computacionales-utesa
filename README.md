@@ -14,9 +14,20 @@ Este repositorio está estructurado por asignaturas y áreas fundamentales relac
 **Algoritmos Computacionales**
 1. Introducción a la informática  
 2. Historia del computador  
-3. Componentes de una computadora  
-4. Pseudocódigo  
-5. Diagrama de flujo  
+3. Componentes de una computadora
+4. Algoritmos
+5. Pseudocódigo  
+6. Diagrama de flujo  
 
 ### 🟦 Cuatrimestre 2
 **Programación 1: C++**
+1. Introducción a C++
+2. Variables
+3. Tipos de datos
+4. Entrada y salida 
+5. Estructuras de control: if y switch
+6. Estructuras de iteración: while, do-while y for
+7. Funciones
+8. Arreglos y cadenas
+9. Estructuras: struct, enum y union
+10. Punteros
