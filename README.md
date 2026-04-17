@@ -63,15 +63,3 @@ La estructura está organizada por **cuatrimestres y asignaturas**, siguiendo el
 10. 📍 Punteros  
 
 ---
-
-## 📂 Estructura del repositorio  
-
-```bash
-📁 Ingenieria-Sistemas-UTESA
- ┣ 📁 Cuatrimestre-1
- ┃ ┗ 📁 Algoritmos-Computacionales
- ┣ 📁 Cuatrimestre2
- ┃ ┗ 📁 Programacion 1
-  ┣ 📁 Cuatrimestre2
- ┃ ┗ 📁 Programacion 2
- ┗ 📄 README.md
