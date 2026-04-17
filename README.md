@@ -87,7 +87,7 @@ A lo largo de la carrera, he trabajado con las siguientes tecnologías:
 ```bash
 📁 Ingenieria-Sistemas-UTESA
  ┣ 📁 Cuatrimestre-1
- ┃ ┗ 📁 Algoritmos
+ ┃ ┗ 📁 Algoritmos Computacionales
  ┣ 📁 Cuatrimestre-2
- ┃ ┗ 📁 Programacion-1-C++
+ ┃ ┗ 📁 Programacion 1 
  ┗ 📄 README.md
