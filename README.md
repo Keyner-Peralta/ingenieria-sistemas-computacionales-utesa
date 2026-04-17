@@ -12,16 +12,25 @@
 
 Bienvenido a mi repositorio académico 📚  
 
-Aquí encontrarás **todos mis proyectos, prácticas, apuntes y ejercicios** relacionados con mi formación en Ingeniería en Sistemas Computacionales en UTESA.  
-
-🎯 **Objetivo:**  
-Crear un espacio organizado donde documentar mi aprendizaje, mostrar mi progreso como desarrollador y compartir material útil para otros estudiantes.  
+Aquí encontrarás **todos mis proyectos, prácticas y ejercicios** relacionados con la programacion dentro de la Ingeniería en Sistemas Computacionales.  
 
 ---
 
 ## 🚀 Contenido del Repositorio  
 
 Este repositorio está organizado por **cuatrimestres y asignaturas**, siguiendo el orden de mi formación académica.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+A lo largo de la carrera, he trabajado con las siguientes tecnologías:
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
