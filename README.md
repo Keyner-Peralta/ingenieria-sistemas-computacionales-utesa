@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white">
-  <img src="https://img.shields.io/badge/Tinkercad-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white">
 
 </p>
 ---
