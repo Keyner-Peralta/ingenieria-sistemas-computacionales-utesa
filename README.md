@@ -64,7 +64,7 @@ La estructura está organizada por **cuatrimestres y asignaturas**, siguiendo el
 
 ### 💻 Programación 2 (Programación Orientada a Objetos) – Java  
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 1. ☕ Introducción a Java y la Programación Orientada a Objetos
