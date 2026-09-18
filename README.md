@@ -63,3 +63,23 @@ La estructura está organizada por **cuatrimestres y asignaturas**, siguiendo el
 10. 📍 Punteros  
 
 ---
+
+## 🟦 Cuatrimestre 3 
+
+### 💻 Programación 2 (Programación Orientada a Objetos) – Java  
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+</p>
+
+1. ☕ Introducción a Java y la Programación Orientada a Objetos
+2. 🧱 Clases  
+3. 🏷️ Atributos 
+4. ⚙️ Métodos 
+5. 🏗️ Constructores 
+6. 🔒 Encapsulación
+7. 🌳 Herencia
+8. 🧠 Abstracción 
+9. 🔄 Polimorfismo
+10. 🔌 Interfaces
+
+---
